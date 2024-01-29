@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #fff9f0;
+}
+
+border {
+    @apply border border-gray-300
+}
